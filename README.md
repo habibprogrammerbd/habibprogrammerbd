@@ -14,18 +14,12 @@
 
 ## 🚀 About Me
 
-- 🎓 CSE Student, currently based in **Rangpur, Bangladesh**
-- 🔭 Currently solving **DSA problems on Codeforces & LeetCode**
-- 🌱 Deepening my skills in **Data Structures & Algorithms with C++**
-- 🤝 Open to collaborate on **backend development & competitive programming projects**
-- 📫 Reach me at **habibprogrammerbd@gmail.com**
-- 🌐 Portfolio: **[my-portfolio](https://my-portfolio-five-pearl-14.vercel.app/)**
-
-<br/>
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</div>
+* 🎓 CSE Student, currently based in **Rangpur, Bangladesh**
+* 🔭 Currently solving **DSA problems on Codeforces & LeetCode**
+* 🌱 Deepening my skills in **Data Structures & Algorithms with C++**
+* 🤝 Open to collaborate on **backend development & competitive programming projects**
+* 📫 Reach me at **[habibprogrammerbd@gmail.com](mailto:habibprogrammerbd@gmail.com)**
+* 🌐 Portfolio: **[my-portfolio](https://my-portfolio-five-pearl-14.vercel.app/)**
 
 <br/>
 
@@ -77,7 +71,7 @@
       <img src="https://leetcard.jacoblin.cool/habibprogrammerbd?theme=dark&font=baloo2&ext=heatmap&width=380" width="330"/>
     </td>
     <td align="center" valign="top">
-      <img src="https://placehold.co/90x90/5B4638/FFF?text=CC" width="90" height="90"/><br/>
+      <br/>
       <a href="https://www.codechef.com/users/ahosan_habib">
         <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
       </a>
@@ -95,18 +89,7 @@
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/habibprogrammerbd/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://www.facebook.com/habibprogrammerbd/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-<a href="mailto:habibprogrammerbd@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://my-portfolio-five-pearl-14.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-
-</div>
-
-## 🐍 Contribution Graph
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/habibprogrammerbd/habibprogrammerbd/output/github-snake-dark.svg" width="100%"/>
+<a href="https://www.linkedin.com/in/habibprogrammerbd/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://www.facebook.com/habibprogrammerbd/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a> <a href="mailto:habibprogrammerbd@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://my-portfolio-five-pearl-14.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 
 </div>
 
