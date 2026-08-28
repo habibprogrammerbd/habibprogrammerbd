@@ -61,8 +61,16 @@ def update_codeforces_avatar():
 
 
 def get_cf_solved_count():
-    """Count unique solved problems from the submissions history."""
-    status_url = f"https://codeforces.com/api/user.status?handle={CF_HANDLE}"
+    """Count unique solved problems from the submissions history.
+
+    IMPORTANT: Codeforces' user.status API silently limits results if
+    'count' isn't specified, so we must pass a large explicit count to
+    get the full submission history.
+    """
+    status_url = (
+        f"https://codeforces.com/api/user.status"
+        f"?handle={CF_HANDLE}&from=1&count=100000"
+    )
     raw = fetch(status_url)
     data = json.loads(raw)
     if data.get("status") != "OK":
@@ -72,8 +80,13 @@ def get_cf_solved_count():
     for sub in data["result"]:
         if sub.get("verdict") == "OK":
             problem = sub["problem"]
-            key = (problem.get("contestId"), problem.get("index"))
+            key = (
+                problem.get("contestId"),
+                problem.get("problemsetName"),
+                problem.get("index"),
+            )
             solved.add(key)
+    print(f"Total submissions fetched: {len(data['result'])}, unique solved: {len(solved)}")
     return len(solved)
 
 
