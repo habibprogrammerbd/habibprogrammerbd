@@ -20,8 +20,19 @@ ASSETS_DIR = os.path.join(os.path.dirname(__file__), "..", "assets")
 os.makedirs(ASSETS_DIR, exist_ok=True)
 
 
+DEFAULT_HEADERS = {
+    "User-Agent": (
+        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+        "AppleWebKit/537.36 (KHTML, like Gecko) "
+        "Chrome/124.0.0.0 Safari/537.36"
+    ),
+    "Accept": "*/*",
+}
+
+
 def fetch(url, data=None, headers=None):
-    req = urllib.request.Request(url, data=data, headers=headers or {})
+    merged_headers = {**DEFAULT_HEADERS, **(headers or {})}
+    req = urllib.request.Request(url, data=data, headers=merged_headers)
     with urllib.request.urlopen(req, timeout=15) as resp:
         return resp.read()
 
@@ -63,7 +74,6 @@ def update_leetcode_avatar():
     }
     headers = {
         "Content-Type": "application/json",
-        "User-Agent": "Mozilla/5.0",
         "Referer": f"https://leetcode.com/{LC_USERNAME}/",
     }
     raw = fetch(
