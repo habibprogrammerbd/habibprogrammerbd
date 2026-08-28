@@ -77,6 +77,12 @@
 <img src="assets/cf_card.svg" width="70%" alt="Codeforces Statistics" />
 </a>
 
+<br/><br/>
+
+<a href="https://leetcode.com/u/habibprogrammerbd/">
+<img src="https://leetcard.jacoblin.cool/habibprogrammerbd?theme=dark&font=Karma&ext=heatmap" width="70%" alt="LeetCode Statistics" />
+</a>
+
 </div>
 
 <p align="center">
