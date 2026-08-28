@@ -60,11 +60,28 @@
 
 <div align="center">
 
-<a href="https://codeforces.com/profile/Habib101"><img src="assets/cf_avatar.png" width="90" height="90" style="border-radius:50%"/><br/><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://leetcode.com/u/habibprogrammerbd/"><img src="assets/lc_avatar.png" width="90" height="90" style="border-radius:50%"/><br/><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://www.codechef.com/users/ahosan_habib"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a>
+<table>
+  <tr>
+    <td align="center">
+      <img src="assets/cf_avatar.png" width="90" height="90"/><br/>
+      <a href="https://codeforces.com/profile/Habib101">
+        <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+      </a>
+    </td>
+    <td align="center">
+      <img src="assets/lc_avatar.png" width="90" height="90"/><br/>
+      <a href="https://leetcode.com/u/habibprogrammerbd/">
+        <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+      </a>
+    </td>
+    <td align="center">
+      <img src="https://placehold.co/90x90/5B4638/FFF?text=CC" width="90" height="90"/><br/>
+      <a href="https://www.codechef.com/users/ahosan_habib">
+        <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 <sub>Codeforces & LeetCode avatars auto-update daily via GitHub Actions (see <code>.github/workflows/update-avatars.yml</code>)</sub>
 
