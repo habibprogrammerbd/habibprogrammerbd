@@ -66,13 +66,16 @@
       <img src="assets/cf_avatar.png" width="90" height="90"/><br/>
       <a href="https://codeforces.com/profile/Habib101">
         <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
-      </a>
+      </a><br/><br/>
+      <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcodeforces.com%2Fapi%2Fuser.info%3Fhandles%3DHabib101&query=%24.result%5B0%5D.rating&label=Rating&color=1F8ACB&style=flat-square"/><br/>
+      <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcodeforces.com%2Fapi%2Fuser.info%3Fhandles%3DHabib101&query=%24.result%5B0%5D.rank&label=Rank&color=1F8ACB&style=flat-square"/>
     </td>
     <td align="center">
       <img src="assets/lc_avatar.png" width="90" height="90"/><br/>
       <a href="https://leetcode.com/u/habibprogrammerbd/">
         <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-      </a>
+      </a><br/><br/>
+      <img src="https://leetcard.jacoblin.cool/habibprogrammerbd?theme=dark&font=baloo2&ext=heatmap&width=380" width="330"/>
     </td>
     <td align="center">
       <img src="https://placehold.co/90x90/5B4638/FFF?text=CC" width="90" height="90"/><br/>
@@ -83,7 +86,7 @@
   </tr>
 </table>
 
-<sub>Codeforces & LeetCode avatars auto-update daily via GitHub Actions (see <code>.github/workflows/update-avatars.yml</code>)</sub>
+<sub>Codeforces & LeetCode avatars auto-update daily via GitHub Actions (see <code>.github/workflows/update-avatars.yml</code>). Rating/rank/solved-count badges update live on every page load.</sub>
 
 </div>
 
