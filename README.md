@@ -1,69 +1,76 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,45:071526,100:0B3A55&height=260&section=header&text=Ahosan%20Habib&fontSize=58&fontColor=EAF6FF&fontAlignY=30&desc=CSE%20Student%20%E2%80%A2%20Competitive%20Programmer%20%E2%80%A2%20Problem%20Solver%20%E2%80%A2%20Developer&descSize=18&descAlignY=48&stroke=38BDF8&strokeWidth=1" />
-
-<a href="https://github.com/habibprogrammerbd">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2400&pause=800&color=38BDF8&center=true&vCenter=true&width=760&height=55&lines=%3E+Solving+DSA+problems...;%3E+Practicing+Competitive+Programming...;%3E+Building+cool+web+%26+backend+applications...;%3E+Learning%2C+Exploring%2C+Growing..." alt="Typing SVG"/>
-</a>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,50:111827,100:0EA5E9&height=210&section=header&text=Ahosan%20Habib&fontSize=48&fontColor=F8FAFC&animation=fadeIn&fontAlignY=34&desc=CSE%20Student%20%7C%20Competitive%20Programmer%20%7C%20Problem%20Solver&descSize=17&descAlignY=58" />
 
 <br/>
 
-<a href="https://github.com/habibprogrammerbd"><img src="https://img.shields.io/badge/GitHub-Profile-0B1220?style=for-the-badge&logo=github&logoColor=38BDF8&labelColor=020617"/></a>
-<a href="https://codeforces.com/profile/Habib101"><img src="https://img.shields.io/badge/Codeforces-Profile-0B1220?style=for-the-badge&logo=codeforces&logoColor=38BDF8&labelColor=020617"/></a>
-<a href="https://leetcode.com/u/habibprogrammerbd/"><img src="https://img.shields.io/badge/LeetCode-Profile-0B1220?style=for-the-badge&logo=leetcode&logoColor=F59E0B&labelColor=020617"/></a>
-<a href="https://www.codechef.com/users/ahosan_habib"><img src="https://img.shields.io/badge/CodeChef-Profile-0B1220?style=for-the-badge&logo=codechef&logoColor=A78BFA&labelColor=020617"/></a>
+<a href="https://github.com/habibprogrammerbd">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=760&lines=Solving+problems+and+learning+every+day;Data+Structures+%26+Algorithms+with+C%2B%2B;Competitive+Programming+%E2%80%A2+Backend+%E2%80%A2+Web+Development" alt="Typing SVG" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/habibprogrammerbd">
+  <img src="https://img.shields.io/badge/GitHub-habibprogrammerbd-111827?style=flat-square&logo=github&logoColor=white" />
+</a>
+<a href="https://codeforces.com/profile/Habib101">
+  <img src="https://img.shields.io/badge/Codeforces-Habib101-111827?style=flat-square&logo=codeforces&logoColor=38BDF8" />
+</a>
+<a href="https://leetcode.com/u/habibprogrammerbd/">
+  <img src="https://img.shields.io/badge/LeetCode-habibprogrammerbd-111827?style=flat-square&logo=leetcode&logoColor=F59E0B" />
+</a>
 
 </div>
 
----
+<br/>
 
-<table>
-<tr>
-<td width="42%" valign="top">
+## 👨‍💻 About Me
 
-# 👤 About Me
+> **CSE Student from Rangpur, Bangladesh** — focused on strengthening problem-solving skills through **DSA and Competitive Programming**, while exploring **backend and web development**.
 
-I'm **Ahosan Habib**, a Computer Science and Engineering student from **Rangpur, Bangladesh**.
-
-I enjoy solving problems, learning new technologies, and building useful software. **Competitive Programming** and **DSA** are my main focus.
+- 🔭 Currently solving problems on **Codeforces & LeetCode**
+- 🌱 Deepening my understanding of **Data Structures & Algorithms with C++**
+- 🤝 Open to collaborate on **backend development & competitive programming projects**
+- 📫 **Email:** [habibprogrammerbd@gmail.com](mailto:habibprogrammerbd@gmail.com)
+- 🌐 **Portfolio:** [my-portfolio-five-pearl-14.vercel.app](https://my-portfolio-five-pearl-14.vercel.app/)
 
 <br/>
 
-🎓 **CSE Student**
+---
 
-📍 **Rangpur, Bangladesh**
+## 🛠️ Tech Stack
 
-📧 **habibprogrammerbd@gmail.com**
+<div align="center">
 
-🌐 **[My Portfolio](https://my-portfolio-five-pearl-14.vercel.app/)**
+<p>
+  <b>Languages</b>
+</p>
 
-💼 **[LinkedIn](https://www.linkedin.com/in/habibprogrammerbd/)**
+<img src="https://skillicons.dev/icons?i=c,cpp,python,js&theme=dark" />
 
-</td>
+<br/><br/>
 
-<td width="58%" valign="top">
+<p>
+  <b>Web Development</b>
+</p>
 
-# 🛠️ Tech Stack
+<img src="https://skillicons.dev/icons?i=html,css,react,vite&theme=dark" />
 
-### ❯ Languages
+<br/><br/>
 
-[![Tech](https://skillicons.dev/icons?i=cpp,c,python,js&theme=dark)](https://skillicons.dev)
+<p>
+  <b>Tools & Environment</b>
+</p>
 
-### ❯ Frontend
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode&theme=dark" />
 
-[![Tech](https://skillicons.dev/icons?i=html,css,react,vite&theme=dark)](https://skillicons.dev)
+</div>
 
-### ❯ Backend & Tools
-
-[![Tech](https://skillicons.dev/icons?i=nodejs,express,git,github,linux,vscode&theme=dark)](https://skillicons.dev)
-
-</td>
-</tr>
-</table>
+<br/>
 
 ---
 
-# 🏆 Competitive Programming
+## 🏆 Competitive Programming
 
 <div align="center">
 
@@ -72,123 +79,134 @@ I enjoy solving problems, learning new technologies, and building useful softwar
 
 <td align="center" width="33%">
 
-### 📊 Codeforces
-
 <a href="https://codeforces.com/profile/Habib101">
-<img src="assets/cf_avatar.png" width="90" alt="Codeforces"/>
+<img src="assets/cf_avatar.png" width="105" alt="Codeforces Avatar"/>
 </a>
-
-**Habib101**
-
-`Rating` **353** &nbsp; | &nbsp; `Max` **353** &nbsp; | &nbsp; `Solved` **19**
-
-[🔗 View Profile](https://codeforces.com/profile/Habib101)
-
-</td>
-
-<td align="center" width="33%">
-
-### 🟠 LeetCode
-
-<a href="https://leetcode.com/u/habibprogrammerbd/">
-<img src="assets/lc_avatar.png" width="90" alt="LeetCode"/>
-</a>
-
-**habibprogrammerbd**
-
-`Problems Solved` **19**
-
-[🔗 View Profile](https://leetcode.com/u/habibprogrammerbd/)
-
-</td>
-
-<td align="center" width="33%">
-
-### 🟣 CodeChef
 
 <br/>
 
-## ♟️
+### Codeforces
 
-**ahosan_habib**
+[View Profile →](https://codeforces.com/profile/Habib101)
 
-`Rating` **0** &nbsp; | &nbsp; `Stars` **0**
+</td>
 
-[🔗 View Profile](https://www.codechef.com/users/ahosan_habib)
+<td align="center" width="33%">
+
+<a href="https://leetcode.com/u/habibprogrammerbd/">
+<img src="assets/lc_avatar.png" width="105" alt="LeetCode Avatar"/>
+</a>
+
+<br/>
+
+### LeetCode
+
+[View Profile →](https://leetcode.com/u/habibprogrammerbd/)
+
+</td>
+
+<td align="center" width="33%">
+
+<br/>
+
+## CodeChef
+
+<br/>
+
+[View Profile →](https://www.codechef.com/users/ahosan_habib)
 
 </td>
 
 </tr>
 </table>
 
+</div>
+
 <br/>
 
-### 📈 Codeforces Statistics
+<div align="center">
+
+### Codeforces Statistics
 
 <a href="https://codeforces.com/profile/Habib101">
-<img src="assets/cf_card.svg" width="70%" alt="Codeforces Statistics"/>
+<img src="assets/cf_card.svg" width="72%" alt="Codeforces Statistics"/>
 </a>
 
 <br/><br/>
 
-### 📊 LeetCode Statistics
+### LeetCode Statistics
 
 <a href="https://leetcode.com/u/habibprogrammerbd/">
-<img src="https://leetcard.jacoblin.cool/habibprogrammerbd?theme=dark&font=Karma&ext=heatmap" width="70%" alt="LeetCode Statistics"/>
+<img src="https://leetcard.jacoblin.cool/habibprogrammerbd?theme=dark&font=Karma&ext=heatmap" width="72%" alt="LeetCode Statistics"/>
 </a>
 
 </div>
 
+<p align="center">
+<sub>
+Codeforces & LeetCode avatars + statistics auto-update through GitHub Actions.
+See <code>.github/workflows/update-avatars.yml</code>
+</sub>
+</p>
+
+<br/>
+
 ---
 
-<table>
-<tr>
-<td width="48%" align="center">
+## 📊 GitHub
 
-# 📬 Connect With Me
+<div align="center">
+
+<a href="https://github.com/habibprogrammerbd">
+  <img src="https://img.shields.io/badge/Explore_My_GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="Explore GitHub"/>
+</a>
+
+</div>
 
 <br/>
 
-<a href="https://my-portfolio-five-pearl-14.vercel.app/">
-<img src="https://img.shields.io/badge/🎓_PORTFOLIO-071526?style=for-the-badge&labelColor=020617&color=0B3A55"/>
-</a>
+---
 
-<a href="mailto:habibprogrammerbd@gmail.com">
-<img src="https://img.shields.io/badge/GMAIL-071526?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=020617&color=0B3A55"/>
-</a>
+## 🤝 Connect With Me
 
-<br/>
+<div align="center">
 
 <a href="https://www.linkedin.com/in/habibprogrammerbd/">
-<img src="https://img.shields.io/badge/LINKEDIN-071526?style=for-the-badge&logo=linkedin&logoColor=38BDF8&labelColor=020617&color=0B3A55"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://www.facebook.com/habibprogrammerbd/">
-<img src="https://img.shields.io/badge/FACEBOOK-071526?style=for-the-badge&logo=facebook&logoColor=60A5FA&labelColor=020617&color=0B3A55"/>
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
 
-</td>
-
-<td width="52%" align="center">
-
-# 🐍 Contribution Graph
-
-<a href="https://github.com/habibprogrammerbd">
-<img src="https://raw.githubusercontent.com/habibprogrammerbd/habibprogrammerbd/output/github-snake-dark.svg" alt="Contribution Snake"/>
+<a href="mailto:habibprogrammerbd@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-</td>
-</tr>
-</table>
+<a href="https://my-portfolio-five-pearl-14.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</div>
+
+<br/>
 
 ---
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=habibprogrammerbd&style=flat-square&color=0ea5e9&label=PROFILE+VIEWS" alt="Profile Views"/>
+<sub>
+<a href="https://github.com/habibprogrammerbd">GitHub</a>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+<a href="https://codeforces.com/profile/Habib101">Codeforces</a>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+<a href="https://leetcode.com/u/habibprogrammerbd/">LeetCode</a>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+<a href="https://www.codechef.com/users/ahosan_habib">CodeChef</a>
+</sub>
 
 <br/><br/>
 
-**Thanks for visiting my profile! 💙**
+<sub>Built with curiosity, consistency, and code.</sub>
 
 </div>
