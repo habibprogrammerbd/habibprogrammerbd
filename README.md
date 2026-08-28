@@ -67,7 +67,7 @@
       <a href="https://codeforces.com/profile/Habib101">
         <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
       </a><br/><br/>
-      <img src="assets/cf_card.svg" width="330"/>
+      <img src="https://cdn.jsdelivr.net/gh/habibprogrammerbd/habibprogrammerbd@main/assets/cf_card.svg" width="330"/>
     </td>
     <td align="center" valign="top">
       <img src="assets/lc_avatar.png" width="90" height="90"/><br/>
