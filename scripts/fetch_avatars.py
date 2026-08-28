@@ -52,11 +52,84 @@ def update_codeforces_avatar():
     if data.get("status") != "OK":
         print("Codeforces API error:", data)
         return False
-    avatar_url = data["result"][0]["titlePhoto"]
+    result = data["result"][0]
+    avatar_url = result["titlePhoto"]
     if avatar_url.startswith("//"):
         avatar_url = "https:" + avatar_url
     save_image(avatar_url, "cf_avatar.png")
-    return True
+    return result
+
+
+def get_cf_solved_count():
+    """Count unique solved problems from the submissions history."""
+    status_url = f"https://codeforces.com/api/user.status?handle={CF_HANDLE}"
+    raw = fetch(status_url)
+    data = json.loads(raw)
+    if data.get("status") != "OK":
+        print("Codeforces status API error:", data)
+        return 0
+    solved = set()
+    for sub in data["result"]:
+        if sub.get("verdict") == "OK":
+            problem = sub["problem"]
+            key = (problem.get("contestId"), problem.get("index"))
+            solved.add(key)
+    return len(solved)
+
+
+RANK_COLORS = {
+    "newbie": "#CCCCCC",
+    "pupil": "#77FF77",
+    "specialist": "#77DDBB",
+    "expert": "#AAAAFF",
+    "candidate master": "#FF88FF",
+    "master": "#FFCC88",
+    "international master": "#FFBB55",
+    "grandmaster": "#FF7777",
+    "international grandmaster": "#FF3333",
+    "legendary grandmaster": "#AA0000",
+}
+
+
+def build_cf_card(cf_result, solved_count):
+    handle = cf_result.get("handle", CF_HANDLE)
+    rating = cf_result.get("rating", "Unrated")
+    max_rating = cf_result.get("maxRating", "-")
+    rank = cf_result.get("rank", "unrated")
+    rank_color = RANK_COLORS.get(rank.lower(), "#7AA2F7")
+
+    svg = f'''<svg width="330" height="200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .bg {{ fill: #1a1b27; }}
+      .title {{ font: 700 18px 'Segoe UI', sans-serif; fill: #ffffff; }}
+      .label {{ font: 400 13px 'Segoe UI', sans-serif; fill: #9aa5ce; }}
+      .value {{ font: 700 22px 'Segoe UI', sans-serif; fill: #ffffff; }}
+      .rank {{ font: 700 15px 'Segoe UI', sans-serif; fill: {rank_color}; }}
+    </style>
+  </defs>
+  <rect class="bg" width="330" height="200" rx="12"/>
+  <text x="20" y="34" class="title">{handle}</text>
+  <text x="20" y="54" class="rank">{rank}</text>
+
+  <text x="20" y="100" class="label">Rating</text>
+  <text x="20" y="128" class="value">{rating}</text>
+
+  <text x="120" y="100" class="label">Max Rating</text>
+  <text x="120" y="128" class="value">{max_rating}</text>
+
+  <text x="230" y="100" class="label">Solved</text>
+  <text x="230" y="128" class="value">{solved_count}</text>
+
+  <rect x="20" y="150" width="290" height="6" rx="3" fill="#2a2b3c"/>
+  <rect x="20" y="150" width="{min(290, int(rating or 0) / 10)}" height="6" rx="3" fill="{rank_color}"/>
+  <text x="20" y="180" class="label">codeforces.com/profile/{handle}</text>
+</svg>'''
+
+    path = os.path.join(ASSETS_DIR, "cf_card.svg")
+    with open(path, "w", encoding="utf-8") as f:
+        f.write(svg)
+    print("Saved cf_card.svg")
 
 
 def update_leetcode_avatar():
@@ -90,7 +163,10 @@ def update_leetcode_avatar():
 if __name__ == "__main__":
     ok = True
     try:
-        update_codeforces_avatar()
+        cf_result = update_codeforces_avatar()
+        if cf_result:
+            solved = get_cf_solved_count()
+            build_cf_card(cf_result, solved)
     except Exception as e:
         print("Codeforces fetch failed:", e)
         ok = False
