@@ -24,15 +24,18 @@
 
 <br/>
 
+---
+
 ## 👨‍💻 About Me
 
 > **CSE Student from Rangpur, Bangladesh** — focused on strengthening problem-solving skills through **DSA and Competitive Programming**, while exploring **backend and web development**.
 
-- 🔭 Currently solving problems on **Codeforces & LeetCode**
-- 🌱 Deepening my understanding of **Data Structures & Algorithms with C++**
-- 🤝 Open to collaborate on **backend development & competitive programming projects**
-- 📫 **Email:** [habibprogrammerbd@gmail.com](mailto:habibprogrammerbd@gmail.com)
-- 🌐 **Portfolio:** [my-portfolio-five-pearl-14.vercel.app](https://my-portfolio-five-pearl-14.vercel.app/)
+* 🔭 Currently solving problems on **Codeforces & LeetCode**
+* 🌱 Deepening my understanding of **Data Structures & Algorithms with C++**
+* 💻 Exploring **Backend & Web Development**
+* 🤝 Open to collaborate on **programming and development projects**
+* 📫 **Email:** [habibprogrammerbd@gmail.com](mailto:habibprogrammerbd@gmail.com)
+* 🌐 **Portfolio:** [my-portfolio-five-pearl-14.vercel.app](https://my-portfolio-five-pearl-14.vercel.app/)
 
 <br/>
 
@@ -42,25 +45,19 @@
 
 <div align="center">
 
-<p>
-  <b>Languages</b>
-</p>
+### Languages
 
 <img src="https://skillicons.dev/icons?i=c,cpp,python,js&theme=dark" />
 
 <br/><br/>
 
-<p>
-  <b>Web Development</b>
-</p>
+### Web Development
 
 <img src="https://skillicons.dev/icons?i=html,css,react,vite&theme=dark" />
 
 <br/><br/>
 
-<p>
-  <b>Tools & Environment</b>
-</p>
+### Tools & Environment
 
 <img src="https://skillicons.dev/icons?i=git,github,linux,vscode&theme=dark" />
 
@@ -87,7 +84,9 @@
 
 ### Codeforces
 
-[View Profile →](https://codeforces.com/profile/Habib101)
+<a href="https://codeforces.com/profile/Habib101">
+View Profile →
+</a>
 
 </td>
 
@@ -101,7 +100,9 @@
 
 ### LeetCode
 
-[View Profile →](https://leetcode.com/u/habibprogrammerbd/)
+<a href="https://leetcode.com/u/habibprogrammerbd/">
+View Profile →
+</a>
 
 </td>
 
@@ -109,11 +110,13 @@
 
 <br/>
 
-## CodeChef
+### CodeChef
 
 <br/>
 
-[View Profile →](https://www.codechef.com/users/ahosan_habib)
+<a href="https://www.codechef.com/users/ahosan_habib">
+View Profile →
+</a>
 
 </td>
 
@@ -144,8 +147,7 @@
 
 <p align="center">
 <sub>
-Codeforces & LeetCode avatars + statistics auto-update through GitHub Actions.
-See <code>.github/workflows/update-avatars.yml</code>
+Codeforces & LeetCode avatars and statistics are automatically updated through GitHub Actions.
 </sub>
 </p>
 
@@ -158,7 +160,7 @@ See <code>.github/workflows/update-avatars.yml</code>
 <div align="center">
 
 <a href="https://github.com/habibprogrammerbd">
-  <img src="https://img.shields.io/badge/Explore_My_GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="Explore GitHub"/>
+<img src="https://img.shields.io/badge/Explore_My_GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="Explore GitHub"/>
 </a>
 
 </div>
