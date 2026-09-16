@@ -66,79 +66,13 @@
 
 ## 🏆 Competitive Programming
 
-<div align="center">
+| Platform | Handle | Stats | Profile |
+|---|---|---|---|
+| 🔵 **Codeforces** | `Habib101` (newbie) | Rating **353** · Max Rating **353** · Solved **19** | [View Profile →](https://codeforces.com/profile/Habib101) |
+| 🟠 **LeetCode** | `habibprogrammerbd` | Solved **36** — Easy 25/965 · Medium 11/2115 · Hard 0/975 | [View Profile →](https://leetcode.com/u/habibprogrammerbd/) |
+| ⭐ **CodeChef** | `ahosan_habib` | Stats coming soon | [View Profile →](https://www.codechef.com/users/ahosan_habib) |
 
-<table>
-<tr>
-
-<td align="center" width="33%">
-<a href="https://codeforces.com/profile/Habib101">
-<img src="assets/cf_avatar.png" width="105" alt="Codeforces Avatar"/>
-</a>
-<br/>
-
-### Codeforces
-[View Profile →](https://codeforces.com/profile/Habib101)
-</td>
-
-<td align="center" width="33%">
-<a href="https://leetcode.com/u/habibprogrammerbd/">
-<img src="assets/lc_avatar.png" width="105" alt="LeetCode Avatar"/>
-</a>
-<br/>
-
-### LeetCode
-[View Profile →](https://leetcode.com/u/habibprogrammerbd/)
-</td>
-
-<td align="center" width="33%">
-<br/>
-
-### CodeChef
-<br/>
-
-[View Profile →](https://www.codechef.com/users/ahosan_habib)
-</td>
-
-</tr>
-</table>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-### Codeforces Statistics
-
-<a href="https://codeforces.com/profile/Habib101">
-<img src="assets/cf_card.svg" width="72%" alt="Codeforces Statistics"/>
-</a>
-
-<br/><br/>
-
-### LeetCode Statistics
-
-<a href="https://leetcode.com/u/habibprogrammerbd/">
-<img src="assets/lc_card.svg" width="72%" alt="LeetCode Statistics"/>
-</a>
-
-<br/><br/>
-
-### CodeChef Statistics
-
-<a href="https://www.codechef.com/users/ahosan_habib">
-<img src="assets/cc_card.svg" width="72%" alt="CodeChef Statistics"/>
-</a>
-
-</div>
-
-<p align="center">
-<sub>
-Codeforces avatar & stats card auto-update through GitHub Actions — see <code>.github/workflows/update-avatars.yml</code>.
-LeetCode & CodeChef cards (<code>assets/lc_card.svg</code>, <code>assets/cc_card.svg</code>) are updated manually.
-</sub>
-</p>
+<sub>Updated manually — no external stat-card services, so nothing here depends on an image loading.</sub>
 
 <br/>
 
