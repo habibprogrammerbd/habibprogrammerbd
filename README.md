@@ -19,23 +19,23 @@
 <a href="https://leetcode.com/u/habibprogrammerbd/">
   <img src="https://img.shields.io/badge/LeetCode-habibprogrammerbd-111827?style=flat-square&logo=leetcode&logoColor=F59E0B" />
 </a>
+<a href="https://www.codechef.com/users/ahosan_habib">
+  <img src="https://img.shields.io/badge/CodeChef-ahosan__habib-111827?style=flat-square&logo=codechef&logoColor=A0522D" />
+</a>
 
 </div>
 
 <br/>
 
----
-
 ## 👨‍💻 About Me
 
 > **CSE Student from Rangpur, Bangladesh** — focused on strengthening problem-solving skills through **DSA and Competitive Programming**, while exploring **backend and web development**.
 
-* 🔭 Currently solving problems on **Codeforces & LeetCode**
-* 🌱 Deepening my understanding of **Data Structures & Algorithms with C++**
-* 💻 Exploring **Backend & Web Development**
-* 🤝 Open to collaborate on **programming and development projects**
-* 📫 **Email:** [habibprogrammerbd@gmail.com](mailto:habibprogrammerbd@gmail.com)
-* 🌐 **Portfolio:** [my-portfolio-five-pearl-14.vercel.app](https://my-portfolio-five-pearl-14.vercel.app/)
+- 🔭 Currently solving problems on **Codeforces & LeetCode**
+- 🌱 Deepening my understanding of **Data Structures & Algorithms with C++**
+- 🤝 Open to collaborate on **backend development & competitive programming projects**
+- 📫 **Email:** [habibprogrammerbd@gmail.com](mailto:habibprogrammerbd@gmail.com)
+- 🌐 **Portfolio:** [my-portfolio-five-pearl-14.vercel.app](https://my-portfolio-five-pearl-14.vercel.app/)
 
 <br/>
 
@@ -45,20 +45,17 @@
 
 <div align="center">
 
-### Languages
-
+<p><b>Languages</b></p>
 <img src="https://skillicons.dev/icons?i=c,cpp,python,js&theme=dark" />
 
 <br/><br/>
 
-### Web Development
-
+<p><b>Web Development</b></p>
 <img src="https://skillicons.dev/icons?i=html,css,react,vite&theme=dark" />
 
 <br/><br/>
 
-### Tools & Environment
-
+<p><b>Tools & Environment</b></p>
 <img src="https://skillicons.dev/icons?i=git,github,linux,vscode&theme=dark" />
 
 </div>
@@ -75,49 +72,32 @@
 <tr>
 
 <td align="center" width="33%">
-
 <a href="https://codeforces.com/profile/Habib101">
 <img src="assets/cf_avatar.png" width="105" alt="Codeforces Avatar"/>
 </a>
-
 <br/>
 
 ### Codeforces
-
-<a href="https://codeforces.com/profile/Habib101">
-View Profile →
-</a>
-
+[View Profile →](https://codeforces.com/profile/Habib101)
 </td>
 
 <td align="center" width="33%">
-
 <a href="https://leetcode.com/u/habibprogrammerbd/">
 <img src="assets/lc_avatar.png" width="105" alt="LeetCode Avatar"/>
 </a>
-
 <br/>
 
 ### LeetCode
-
-<a href="https://leetcode.com/u/habibprogrammerbd/">
-View Profile →
-</a>
-
+[View Profile →](https://leetcode.com/u/habibprogrammerbd/)
 </td>
 
 <td align="center" width="33%">
-
 <br/>
 
 ### CodeChef
-
 <br/>
 
-<a href="https://www.codechef.com/users/ahosan_habib">
-View Profile →
-</a>
-
+[View Profile →](https://www.codechef.com/users/ahosan_habib)
 </td>
 
 </tr>
@@ -139,15 +119,32 @@ View Profile →
 
 ### LeetCode Statistics
 
-<a href="https://leetcode.com/u/habibprogrammerbd/">
-<img src="https://leetcard.jacoblin.cool/habibprogrammerbd?theme=dark&font=Karma&ext=heatmap" width="72%" alt="LeetCode Statistics"/>
-</a>
+<table width="72%">
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/Total%20Solved-36-38BDF8?style=for-the-badge&logo=leetcode&logoColor=white" /><br/><br/>
+<img src="https://img.shields.io/badge/Easy-25%2F965-2CBB5D?style=for-the-badge" /><br/>
+<img src="https://img.shields.io/badge/Medium-11%2F2115-FFC01E?style=for-the-badge" /><br/>
+<img src="https://img.shields.io/badge/Hard-0%2F975-EF4743?style=for-the-badge" />
+</td>
+</tr>
+</table>
+
+<br/><br/>
+
+### CodeChef Statistics
+
+<img src="https://img.shields.io/badge/CodeChef-View%20Live%20Rating-5B4638?style=for-the-badge&logo=codechef&logoColor=A0522D" />
+
+<br/>
+<sub>Visit the <a href="https://www.codechef.com/users/ahosan_habib">CodeChef profile</a> for the latest rating & stars.</sub>
 
 </div>
 
 <p align="center">
 <sub>
-Codeforces & LeetCode avatars and statistics are automatically updated through GitHub Actions.
+Codeforces avatar & stats card auto-update through GitHub Actions — see <code>.github/workflows/update-avatars.yml</code>.
+LeetCode & CodeChef stats above are updated manually.
 </sub>
 </p>
 
@@ -160,7 +157,7 @@ Codeforces & LeetCode avatars and statistics are automatically updated through G
 <div align="center">
 
 <a href="https://github.com/habibprogrammerbd">
-<img src="https://img.shields.io/badge/Explore_My_GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="Explore GitHub"/>
+  <img src="https://img.shields.io/badge/Explore_My_GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="Explore GitHub"/>
 </a>
 
 </div>
@@ -176,15 +173,12 @@ Codeforces & LeetCode avatars and statistics are automatically updated through G
 <a href="https://www.linkedin.com/in/habibprogrammerbd/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
 <a href="https://www.facebook.com/habibprogrammerbd/">
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
-
 <a href="mailto:habibprogrammerbd@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
 <a href="https://my-portfolio-five-pearl-14.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
