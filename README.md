@@ -119,32 +119,24 @@
 
 ### LeetCode Statistics
 
-<table width="72%">
-<tr>
-<td align="center">
-<img src="https://img.shields.io/badge/Total%20Solved-36-38BDF8?style=for-the-badge&logo=leetcode&logoColor=white" /><br/><br/>
-<img src="https://img.shields.io/badge/Easy-25%2F965-2CBB5D?style=for-the-badge" /><br/>
-<img src="https://img.shields.io/badge/Medium-11%2F2115-FFC01E?style=for-the-badge" /><br/>
-<img src="https://img.shields.io/badge/Hard-0%2F975-EF4743?style=for-the-badge" />
-</td>
-</tr>
-</table>
+<a href="https://leetcode.com/u/habibprogrammerbd/">
+<img src="assets/lc_card.svg" width="72%" alt="LeetCode Statistics"/>
+</a>
 
 <br/><br/>
 
 ### CodeChef Statistics
 
-<img src="https://img.shields.io/badge/CodeChef-View%20Live%20Rating-5B4638?style=for-the-badge&logo=codechef&logoColor=A0522D" />
-
-<br/>
-<sub>Visit the <a href="https://www.codechef.com/users/ahosan_habib">CodeChef profile</a> for the latest rating & stars.</sub>
+<a href="https://www.codechef.com/users/ahosan_habib">
+<img src="assets/cc_card.svg" width="72%" alt="CodeChef Statistics"/>
+</a>
 
 </div>
 
 <p align="center">
 <sub>
 Codeforces avatar & stats card auto-update through GitHub Actions — see <code>.github/workflows/update-avatars.yml</code>.
-LeetCode & CodeChef stats above are updated manually.
+LeetCode & CodeChef cards (<code>assets/lc_card.svg</code>, <code>assets/cc_card.svg</code>) are updated manually.
 </sub>
 </p>
 
