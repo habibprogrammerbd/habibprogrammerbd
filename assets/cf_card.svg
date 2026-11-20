@@ -13,15 +13,15 @@
   <text x="20" y="54" class="rank">newbie</text>
 
   <text x="20" y="100" class="label">Rating</text>
-  <text x="20" y="128" class="value">353</text>
+  <text x="20" y="128" class="value">909</text>
 
   <text x="120" y="100" class="label">Max Rating</text>
-  <text x="120" y="128" class="value">353</text>
+  <text x="120" y="128" class="value">909</text>
 
   <text x="230" y="100" class="label">Solved</text>
-  <text x="230" y="128" class="value">19</text>
+  <text x="230" y="128" class="value">116</text>
 
   <rect x="20" y="150" width="290" height="6" rx="3" fill="#2a2b3c"/>
-  <rect x="20" y="150" width="35.3" height="6" rx="3" fill="#CCCCCC"/>
+  <rect x="20" y="150" width="90.9" height="6" rx="3" fill="#CCCCCC"/>
   <text x="20" y="180" class="label">codeforces.com/profile/Habib101</text>
 </svg>
